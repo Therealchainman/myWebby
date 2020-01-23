@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>theRealChainman</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/tlc.ico">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1 class="logo">Todd Chaney</h1>
+        <input type="checkbox" class="nav-toggle">
+        <nav>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="myWork.html">myWork</a></li>
+            <li><a href="theRealChainmanNotes.html">theRealChainman Notes</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </nav>
+    </header>
+    <label for="nav-toggle" class="nav-toggle-label">
+        <span>X</span>
+      </label>
+      <script src="https://www.desmos.com/api/v1.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+      <div id="calculator" style="width: 600px; height: 400px;"></div>
+      <script>
+        var elt = document.getElementById('calculator');
+        var calculator = Desmos.GraphingCalculator(elt);
+        calculator.setExpression({ id: 'graph1', latex: 'y=x^2' });
+      </script>
+</body>
+</html>
