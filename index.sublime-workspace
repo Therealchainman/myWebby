@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"translateZ()\ttransform"
+			],
+			[
+				"progre",
+				"progress-bar"
+			],
+			[
+				"anime",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"xx",
+				"xx-small\tfont-size"
+			],
+			[
+				"y",
+				"y_real"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"Color Picker"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Todde/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Todde/repo/hw0/hw00.java",
+		"/C/Users/Todde/Desktop/Spring_2019/HilbertsPlacePrivateTutorsWebsite/website1/style.css",
+		"/C/Users/Todde/Desktop/Spring_2019/HilbertsPlacePrivateTutorsWebsite/website1/index.html",
+		"/C/Users/Todde/Desktop/Spring_2019/Web_Design/HTML Demo/page5.css",
+		"/C/Users/Todde/Desktop/Spring_2019/Web_Design/HTML Demo/table.html",
+		"/C/Users/Todde/Desktop/Spring_2019/Web_Design/HTML Demo/blog.css",
+		"/C/Users/Todde/Desktop/Spring_2019/Web_Design/HTML Demo/blog.html",
+		"/C/Users/Todde/Desktop/Spring_2019/Web_Design/HTML Demo/index.html",
+		"/C/Users/Todde/Desktop/Spring_2019/Web_Design/HTML Demo/Physics_website.sublime-project",
+		"/C/Users/Todde/Desktop/Spring_2019/HilbertsPlace/HilbertsPlace/README.md",
+		"/C/Users/Todde/Desktop/fall_2019/cs61bprojects/cs61bProjects/.git/description",
+		"/C/Users/Todde/Desktop/fall_2019/cs61bprojects/cs61bProjects/.git/objects/31/c8ed810ff02910b2a2df37d80b311623004d8b",
+		"/C/Users/Todde/Desktop/AronLloyd.asc",
+		"/C/Users/Todde/repo/proj3/gitlet/Main.java",
+		"/C/Users/Todde/Desktop/fall_2019/cs61bprojects/cs61bProjects/.git/logs/refs/heads/master",
+		"/C/Users/Todde/Desktop/fall_2019/cs61bprojects/cs61bProjects/.git/HEAD",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/hallEffectSemiconductor/run1.dat",
+		"/C/Users/Todde/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/flash (1).dat",
+		"/C/Users/Todde/repo/proj3/gitlet-design.txt",
+		"/C/Users/Todde/Desktop/cs61a/projects/ants/ants/gui.py",
+		"/C/Users/Todde/Desktop/cs61a/projects/ants/ants/ants_gui.py",
+		"/C/Users/Todde/Desktop/cs61a/projects/preants/ants/ants/ants.py",
+		"/C/Users/Todde/Desktop/cs61a/projects/ants/ants/ants.py",
+		"/C/Users/Todde/Desktop/fall_2019/math128a/Homework/hw10/adamsVariable.py",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/CalibrationData1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/60DegDataTarget1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/120DegTarget1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/160DegDataBackground1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/160DegDataTarget1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/OverTheWeekend.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/20DegBackground.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/120DegDataBackground.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/80DegDataBackground1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/80DegDataTarget1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/0DegDataTarget1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/20DegTarget1.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/120DegTarget.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/20DegTarget.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/80DegData.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/0DegDataTarget.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/60DegDataTarget.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/160DegDataTarget.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/160DegDataBackground.mca",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/error",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/comScat_T_Chaney.pdf",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/compton_scattering/COM/import numpy as np.py",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/Josephson Junction/JOS_AcData.dat",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/Josephson Junction/JOS_DcData.dat",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/Josephson Junction/JOS_Data.dat",
+		"/C/Users/Todde/Desktop/cs61a/hw/hw04/hw04/hw04.py",
+		"/C/Users/Todde/Desktop/fall_2019/math128a/Homework/hw5/fdiff.py",
+		"/C/Users/Todde/Desktop/cs61a/lab/lab09/lab09/lab09.py",
+		"/C/Users/Todde/Desktop/cs61a/lab/lab06/lab06/lab06.py",
+		"/C/Users/Todde/Desktop/cs61a/lab/lab04/lab04/lab04.py",
+		"/C/Users/Todde/Desktop/cs61a/hw/hw03/hw03/hw03.py",
+		"/C/Users/Todde/Desktop/hw04/hw04/hw04.py",
+		"/C/Users/Todde/Desktop/fall_2019/physics111b/opt/opt.py",
+		"/C/Users/Todde/repo/hw0/functions.java",
+		"/C/Users/Todde/repo/hw0/Tester.java",
+		"/C/Users/Todde/repo/hw0/H00.txt",
+		"/C/Users/Todde/Desktop/fall_2019/cs61b/labs/lab1/LeapYear.java",
+		"/C/Users/Todde/Desktop/fall_2019/cs61b/labs/lab1/Year.java",
+		"/C/Users/Todde/repo/hw2/lists/IntListList.java",
+		"/C/Users/Todde/repo/hw2/lists/IntList.java",
+		"/C/Users/Todde/repo/hw2/lists/Utils.java",
+		"/C/Users/Todde/repo/hw2/lists/Lists.java",
+		"/C/Users/Todde/repo/hw2/lists/ListsTest.java",
+		"/C/Users/Todde/Desktop/fall_2019/cs61b/hw/hw0/Tester.java",
+		"/C/Users/Todde/Desktop/fall_2019/cs61b/hw/hw0/hw00.java",
+		"/C/Users/Todde/Desktop/fall_2019/cs61b/labs/lab1/HelloWorld.java",
+		"/C/Users/Todde/Desktop/test.py",
+		"/C/Users/Todde/Desktop/cs61a/projects/hog/hog/hog.py",
+		"/C/Users/Todde/Desktop/fall_2019/Physics_111B/opt/opt.py",
+		"/C/Users/Todde/Desktop/fall_2019/Physics 111B/Optical Pumping/opt.py",
+		"/C/Users/Todde/Desktop/Fall 2019/Physics 111B/Optical Pumping/opt.py",
+		"/C/Users/Todde/Desktop/cs61a/fall_2019/hw01/hw01/hw01.py",
+		"/C/Users/Todde/Desktop/cs61a/hw/hw01/hw01.py",
+		"/C/Users/Todde/Desktop/cs61a/fall_2019/Hw01.txt",
+		"/C/Users/Todde/Desktop/cs61a/Fall 2019/hw01/hw01/hw01.py",
+		"/C/Users/Todde/Desktop/cs61a/hw/hw07/hw07/hw07.sql",
+		"/C/Users/Todde/Desktop/hw07/hw07/hw07.sql",
+		"/C/Users/Todde/Desktop/cs61a/hw/hw07/hw07/hw07.scm",
+		"/C/Users/Todde/Desktop/cs61a/hw/hw06/hw06/hw06.scm",
+		"/C/Users/Todde/Desktop/cs61a/projects/scheme/scheme/scheme.py",
+		"/C/Users/Todde/Desktop/cs61a/projects/scheme/scheme/tests.scm",
+		"/C/Users/Todde/Desktop/cs61a/projects/scheme/scheme/tests/09.py",
+		"/C/Users/Todde/Desktop/cs61a/projects/scheme/scheme/tests/08.py",
+		"/C/Users/Todde/Desktop/cs61a/projects/scheme/scheme/tests/07.py",
+		"/C/Users/Todde/OneDrive/UC Berkeley/Classes/6_Summer_2019/Research/NMR Code/wait_for_digi_v3.lua",
+		"/C/Users/Todde/OneDrive/UC Berkeley/Classes/6_Summer_2019/Research/NMR Code/hyperpolarizationPulse.lua"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
