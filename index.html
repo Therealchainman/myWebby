@@ -1,66 +1,197 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta property='og:title' content='theRealChainman'/>
-  <meta property='og:image' content='img/tlc_linkedin.png'/>
-  <meta property='og:description' content='My website that is currently 
-  under construction in my free time.'/>
-  <meta property='og:url' content='https://therealchainman.github.io/myWebby/'/>
-  <title>theRealChainman</title>
-  <link rel="shortcut icon" type="image/x-icon" href="img/tlc.ico" />
-  <link rel="stylesheet" type="text/css" href="style.css" />
-  <link
-  rel="stylesheet"
-  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
-  />
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <script
-  src="https://kit.fontawesome.com/f08afbd3e1.js"
-  crossorigin="anonymous"
-  ></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property='og:title' content='theRealChainman'/>
+    <meta property='og:image' content='img/tlc_linkedin.png'/>
+    <meta property='og:description' content='My website that is currently 
+    under construction in my free time.'/>
+    <meta property='og:url' content='https://therealchainman.github.io/myWebby/'/>
+    <title>theRealChainman</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/tlc.ico">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/f08afbd3e1.js" crossorigin="anonymous"></script>
 </head>
 <body>
-  <header class="grid-container">
-    <h1 class="logo">Todd Chaney</h1>
-    <input type="checkbox" id="nav-toggle" class="nav-toggle" />
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="myWork.html">myWork</a></li>
-        <li><a href="theRealChainmanNotes.html">theRealChainman Notes</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
-    </nav>
-    <label for="nav-toggle" class="nav-toggle-label">
-      <span></span>
-    </label>
-  </header>
-  <div class="content">
-    <!-- Social Media -->
-    <div class="container-fluid padding">
-      <div class="row text-center padding">
-        <div class="col-12">
-          <h2>Connect</h2>
-        </div>
-        <div class="col-12 social padding">
-          <a href="https://www.facebook.com/todd.chaney.92"
-          ><i class="fab fa-facebook-square"></i
-            ></a>
-            <a href="https://twitter.com/ToddChaney25"
-            ><i class="fab fa-twitter"></i
-              ></a>
-              <a href="https://www.linkedin.com/in/todd-chaney-a269a980/"
-              ><i class="fab fa-linkedin"></i
-                ></a>
-                <a href="https://www.instagram.com/therealchainman/"
-                ><i class="fab fa-instagram"></i
-                  ></a>
+    <header class="grid-container">
+        <h1 class="logo">Todd Chaney</h1>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <nav>
+            <ul>
+                <li><a href="index.html">myWork</a></li>
+                <li><a href="theRealChainmanNotes.html">theRealChainman Notes</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+    </header>
+    <div class="content">
+        <!-- Projects -->
+        <div class="container-fluid padding" style="width:100%">
+            <div class="panel-group"
+            id="accordion">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Projects 2020</a>
+                    </h4>
                 </div>
-              </div>
+                <div id="collapse1" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="col-sm-6">
+                            <h4>codeName:  Clyck - In Progress</h4>
+                                <p>
+                                An app that I am working on in a team this semester.   
+                                </p>
+                        </div>
+                        <div class="col-sm-6">
+                            <a href="https://github.com/Therealchainman/pacMan">
+                        <img src="img/pacman.PNG"></a>
+                        </div>
+                        <!-- The horizontal line would not display unless I entered the class as col-sm-12.
+                        But why? Perhaps because it had to fit within the grid around it?   -->
+                        <div class = "col-sm-12">
+                        <hr class="myaccordion">
+                    </div>
+                    </div>
+                        <div class="col-sm-6">
+                            <span class="label label-primary" id="python">python</span>
+                            <h4>duckieTown Simulator - In Progress</h4>
+                                <p>
+                                More to come later.   
+                                </p>
+                        </div>
+                        <div class="col-sm-6">
+                            <a href="https://github.com/Therealchainman/pacMan">
+                        <img src="img/pacman.PNG"></a>
+                        </div>
+                        <div class = "col-sm-12">
+                        <hr class="myaccordion">
+                        <div class="col-sm-6">
+                            <span class="label label-primary" id="python">python</span>
+                            <h4>Pacman - In Progress</h4>
+                                <p>
+                                Working on an Artificial Intelligence Project with the Pacman game.  Part 1, involved implementing many path finding algorithms with DFS, BFS, UCS, and A*.  Creating consistent and admissible heuristics.  Part 2, required working on the implementation of game trees, such as minimax, alpha-beta pruning, and expectimax.  At the present of writing this on February 22nd, part 3 is starting with reinforcement learning. 
+                                </p>
+                        </div>
+                        <div class="col-sm-6">
+                            <a href="https://github.com/Therealchainman/pacMan">
+                        <img src="img/pacman.PNG"></a>
+                        </div>
+                        <div class = "col-sm-12">
+                        <hr class="myaccordion">
+                    </div>
+                    <div class="col-sm-6">
+                        <span class="label label-primary" id="python">python</span>
+                    <h4>Autonomous Vehicles Simulation - In Progress</h4>
+                    <p>
+                        This is a project still in the idea phase.  This is a project of my own desire because I find it interesting and challenging.  I have looked at having the project involve CARLA simulator.  I was looking into the uses of neural networks and this new Jupyter Notebook called Google Colab, which allows you to access a GPU on the cloud.    
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <a href="#av"><img src="img/googleColab.png">
+                    </a>
+                </div>
+                <div class="col-sm-12">
+                    <hr class="myaccordion">
+                </div>
+                <div class="col-sm-6">
+                    <span class="label label-primary" id="">html</span>
+                    <span class="label label-primary" id="CSS">CSS</span>
+                    <span class="label label-primary" id="javascript">javascript</span>
+                    <h4>My Website - In Progress</h4>
+                    <p>
+                        I am currently designing this website with CSS Bootstrap, javascript.  
+                        Expect to see some more updates in March, because at the present I am investigating how to 
+                        improve my website by getting some feedback.  
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <a href="#itshere"><img src="img/tlcAccordion.png"></a>
             </div>
-          </div>
-        </body>
-        </html>
+        </div>
+    </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Projects 2019</a>
+                    </h4>
+                </div>
+                <div id="collapse2" class="panel-collapse collapse">
+                    <div class="panel-body">
+                      <div class="col-sm-6">
+                        <span class="label label-primary" id="java">java</span>
+                    <h4>Gitlet</h4>
+                    <p>Designed a project for the UC Berkeley class on Data Structures that was called "Gitlet".
+                        Programmed in the Java Language to create a "smaller" version of Git by coding commands
+                        from commit to merge.   
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <a href="https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj3/index.html">
+                        <img src="img/gitlet_commits.PNG"></a>
+                    </div>
+                    <div class="col-sm-12">
+                        <hr class="myaccordion">
+                    </div>
+                    <div class="col-sm-6">
+                        <span class="label label-primary" id="java">java</span>
+                        <h4>Tablut</h4>
+                        <p>
+                            It is the game of the vikings.  Hnefatafl is another name for it.  In fact, it is mentioned
+                            quite a bit in the manga called Vinland Saga, about vikings and their voyage to North America in 1000 AD. 
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <a href="#tablut"><img src="img/tablut.gif"></a>
+                    </div>
+                    <div class="col-sm-12">
+                        <hr class="myaccordion">
+                    </div>
+                    <div class="col-sm-6">
+                        <span class="label label-primary" id="java">java</span>
+                        <h4>Enigma</h4>
+                        <p>
+                            The encryption device used by the Germans in World War II. 
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <a href="#enigma"><img src="img/enigma.jpg"></a>
+                    </div>
+                    <div class="col-sm-12">
+                        <hr class="myaccordion">
+                    </div>
+                    <div class="col-sm-6">
+                        <span class="label label-primary" id="java">java</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+    <!-- Social Media -->
+    <div id="social" class="container-fluid padding">
+        <div class="row text-center padding">
+            <div class="col-12">
+
+                <h2>Connect</h2>
+
+            </div>
+            <div class="col-12 social padding">
+                <a href="https://www.facebook.com/todd.chaney.92"><i class="fab fa-facebook-square"></i></a>
+                <a href="https://twitter.com/ToddChaney25"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/todd-chaney-a269a980/"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.instagram.com/therealchainman/"><i class="fab fa-instagram"></i></a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
