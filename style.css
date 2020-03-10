@@ -103,6 +103,10 @@ hr.myaccordion {
   background-color: #FC5900;
 }
 
+#C {
+  background-color: #7C58F0;
+}
+
 .nav-toggle-label span,
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
