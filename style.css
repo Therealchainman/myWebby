@@ -107,6 +107,10 @@ hr.myaccordion {
   background-color: #7C58F0;
 }
 
+#jupyter-notebook {
+  background-color: #6A6969;
+}
+
 .nav-toggle-label span,
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
