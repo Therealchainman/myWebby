@@ -1,2 +1,2 @@
 # myWebby
-This is my website that discusses some important aspects of my existence. 
+The main purpose of this website is to describe my projects and coding experience.  
