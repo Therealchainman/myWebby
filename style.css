@@ -57,8 +57,6 @@ header {
   width: 100%;
 }
 
-/* changed this from the tutorial video to
-   allow it to gain focus, making it tabbable */
 .nav-toggle {
   position: absolute !important;
   top: -9999px !important;
@@ -262,6 +260,8 @@ nav a:hover {
 .fa-facebook-square:hover, .fa-twitter:hover, .fa-instagram:hover, .fa-youtube:hover, .fa-linkedin:hover, .fa-github:hover {
   color: #726F6F;
 }
+/* These are for my social media section */
+
 /*Dark mode*/
 
 @media (prefers-color-scheme: dark) {
@@ -270,3 +270,24 @@ nav a:hover {
     color: #ccc;
   }
 }
+/*Dark mode */
+
+/*Cards for Profile page*/
+
+.thumbnail {
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+   transition: 0.3s;
+   min-width: 40%;
+   border-radius: 5px;
+ }
+
+ .thumbnail-description {
+   min-height: 140px;
+ }
+
+ .thumbnail:hover {
+   cursor: pointer;
+   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
+ }
+
+ /*Cards for Profile page*/
